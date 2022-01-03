@@ -1,0 +1,500 @@
+001 Led Zeppelin – Stairway to Heaven
+002 Queen – Bohemian Rhapsody
+003 Metallica – One
+004 Black Sabbath – Paranoid
+005 The Who – Baba o’ Riley
+006 The Beatles – Help!
+007 Iron Maiden – The Number of the Beast
+008 Deep Purple – Smoke on the Water
+009 The Beatles – Hey Jude
+010 Led Zeppelin – Rock and Roll
+011 The Eagles – Hotel California
+012 The Rolling Stones – (I Can’t Get No) Satisfaction
+013 Creedence Clearwater Revival – Have You Ever Seen the Rain?
+014 Led Zeppelin – Kashmir
+015 The Jimi Hendrix Experience – Foxy Lady
+016 AC/DC – T.N.T.
+017 Led Zeppelin – Immigrant Song
+018 The Doors – Light My Fire
+019 Pink Floyd – Happiest Days… + Another Brick in the Wall
+020 Guns N’ Roses – Sweet Child o’ Mine
+021 Bob Dylan – Hurricane
+022 The Doors – Love Me Two Times
+023 Jethro Tull – Aqualung
+024 Peter Frampton – Breaking All the Rules
+025 Aerosmith – Dream On
+026 Iron Maiden – Fear of the Dark
+027 The Beatles – Twist and Shout
+028 AC/DC – Back in Black
+029 Eric Clapton – Cocaine
+030 Queen – We Will Rock You
+031 Alice Cooper – No More Mr. Nice Guy
+032 Van Halen – Can’t Stop Lovin’ You
+033 Rush – Tom Sawyer
+034 Kiss – Detroit Rock City
+035 The Doors – L.A. Woman
+036 The Black Crowes – Remedy
+037 Kiss – Rock and Roll All Nite
+038 Pink Floyd – Money
+039 Metallica – Enter Sandman
+040 The Rolling Stones – Like a Rolling Stone
+041 Led Zeppelin – Over the Hills and Far Away
+042 U2 – Sunday Bloody Sunday
+043 AC/DC – Highway to Hell
+044 Steppenwolf – Born to Be Wild
+045 Queen – We Are the Champions
+046 Iron Maiden – Wasted Years
+047 The Who – Who Are You
+048 Led Zeppelin – Black Dog
+049 Kiss – Strutter
+050 The Beatles – Yesterday
+051 Black Sabbath – Iron Man
+052 Metallica – The Unforgiven
+053 The Rolling Stones – Let’s Spend the Night Together
+054 The Jimi Hendrix Experience – Purple Haze
+055 Black Sabbath – Sabbath Bloody Sabbath
+056 Pixies – Here Comes Your Man
+057 AC/DC – Hells Bells
+058 Lynyrd Skynyrd – Simple Man
+059 Black Sabbath – Heaven and Hell
+060 Queen – Somebody to Love
+061 Guns N’ Roses – Welcome to the Jungle
+062 David Bowie – Starman
+063 Bob Dylan – Like a Rolling Stone
+064 Judas Priest – Breaking the Law
+065 Iron Maiden – Wasting Love
+066 Ozzy Osbourne – Shot in the Dark
+067 Deep Purple – Perfect Strangers
+068 Pink Floyd – Time
+069 Lynyrd Skynyrd – Sweet Home Alabama
+070 The Rolling Stones – Start Me Up
+071 AC/DC – Moneytalks
+072 The Doors – Gloria
+073 Deep Purple – Hush
+074 Black Sabbath – War Pigs
+075 Led Zeppelin – Whole Lotta Love
+076 Queen – Bicycle Race
+077 The Who – Substitute
+078 The Jimi Hendrix Experience – Hey Joe
+079 The Beatles – Revolution
+080 Genesis – Mama
+081 Guns N’ Roses – November Rain
+082 Eric Clapton – I Shot the Sheriff
+083 Lynyrd Skynyrd – That Smell
+084 Journey – Don’t Stop Believin’
+085 Elvis Presley – Don’t Be Cruel
+086 The Who – Pinball Wizard
+087 Led Zeppelin – Good Times Bad Times
+088 Black Sabbath – The Wizard
+089 Dio – Rainbow in the Dark
+090 Creedence Clearwater Revival – Who’ll Stop the Rain
+091 Ozzy Osbourne – No More Tears
+092 Janis Joplin – Mercedes Benz
+093 Aerosmith – Walk This Way
+094 The Clash – Rock the Casbah
+095 Elvis Presley – Tutti Frutti
+096 Ramones – Pet Sematary
+097 The Doobie Brothers – Long Train Runnin’
+098 Deep Purple – Space Truckin’
+099 John Lennon – Imagine
+100 The Cult – Edie (Ciao Baby)
+101 Queen and David Bowie – Under Pressure
+102 The Rolling Stones – Brown Sugar
+103 Foo Fighters – My Hero
+104 AC/DC – Jailbreak
+105 The Beatles – All You Need Is Love
+106 Queen – I Want to Break Free
+107 Led Zeppelin – D’yer Mak’er
+108 The Rolling Stones – She’s So Cold
+109 The Doors – Roadhouse Blues
+110 Focus – Hocus Pocus
+111 The Who – You Better You Bet
+112 Alice Cooper – Hey Stoopid
+113 David Bowie – The Man Who Sold the World
+114 Queen – I Want It All
+115 Black Sabbath – N.I.B.
+116 Guns N’ Roses – Used to Love Her
+117 The Doors – Hello, I Love You
+118 The Rolling Stones – Gimme Shelter
+119 Ramones – Do You Wanna Dance
+120 The Beatles – Eleanor Rigby
+121 Joe Cocker – Unchain My Heart
+122 Rush – The Spirit of Radio
+123 Queen – Another One Bites the Dust
+124 Pearl Jam – Alive
+125 The Cult – Lil’ Devil
+126 Elvis Presley – Blue Suede Shoes
+127 Nirvana – Smells Like Teen Spirit
+128 Ramones – Poison Heart
+129 Joy Division – Love Will Tear Us Apart
+130 The Beatles – A Hard Day’s Night
+131 Bon Jovi – Livin’ on a Prayer
+132 The Who – My Generation
+133 The Beatles – All My Loving
+134 The Rolling Stones – Jumpin’ Jack Flash
+135 Survivor – Eye of the Tiger
+136 Lynyrd Skynyrd – Free Bird
+137 Whitesnake – Love Ain’t No Stranger
+138 The Smiths – This Charming Man
+139 Ramones – Blitzkrieg Bop
+140 Nirvana – Come As You Are
+141 U2 – New Year’s Day
+142 Van Halen – Ain’t Talkin’ ‘Bout Love
+143 Yes – Owner of a Lonely Heart
+144 Peter Frampton – Baby, I Love Your Way (Live)
+145 Metallica – Nothing Else Matters
+146 Kiss – I Love it Loud
+147 Nirvana – In Bloom
+148 AC/DC – You Shook Me All Night Long
+149 America – Sister Golden Hair
+150 The Beatles – Love Me Do
+151 David Bowie – Sound and Vision
+152 Led Zeppelin – Dancing Days
+153 The Rolling Stones – Emotional Rescue
+154 The Doors – Riders on the Storm
+155 The Beatles – Can’t Buy Me Love
+156 Guns N’ Roses – You Could Be Mine
+157 The Guess Who – American Woman
+158 Whitesnake – Here I Go Again
+159 Aerosmith – I Don’t Want to Miss a Thing
+160 Rush – Xanadu
+161 David Bowie – Rebel Rebel
+162 Peter Frampton – While My Guitar Gently Weeps
+163 Dire Straits – Sultans of Swing (Live)
+164 Red Hot Chili Peppers – Californication
+165 Rush – Freewill
+166 Bruce Springsteen – Because the Night (Live)
+167 Pearl Jam – Jeremy
+168 Ramones – We Want the Airwaves
+169 Kiss – I Was Made for Lovin’ You
+170 Aerosmith – Amazing
+171 Pink Floyd – High Hopes
+172 The Rolling Stones – Miss You
+173 Elvis Presley – A Little Less Conversation
+174 Nirvana – Lithium
+175 David Bowie – Heroes
+176 Guns N’ Roses – Patience
+177 Led Zeppelin – All My Love
+178 Midnight Oil – My Country
+179 Creedence Clearwater Revival – I Heard it Through the Grapevine
+180 Pearl Jam – Soldier of Love
+181 U2 – One
+182 Elvis Presley – Blue Suede Shoes
+183 Derek and the Dominos – Layla
+184 Nazareth – Hair of the Dog
+185 The Beatles – Come Together
+186 The Who – Behind Blue Eyes
+187 The Doors – Touch Me
+188 ZZ Top – Sharp Dressed Man
+189 Alice Cooper – School’s Out
+190 James Brown – I Got You (I Feel Good)
+191 Faith No More – Epic
+192 Frank Zappa – Bobby Brown (Goes Down)
+193 Rush – Time Stand Still
+194 Deep Purple – Black Night
+195 UFO – Doctor Doctor
+196 Whitesnake – Fool for Your Loving
+197 Bad Religion – American Jesus
+198 Midnight Oil – Beds Are Burning
+199 Red Hot Chili Peppers – Give it Away
+200 Pink Floyd – Wish You Were Here
+201 Van Halen – Jump
+202 Eric Clapton – I Can’t Stand It
+203 Joe Cocker – You Can Leave Your Hat On
+204 Pink Floyd – Hey You
+205 Creedence Clearwater Revival – Proud Mary
+206 The Who – I Can See for Miles
+207 Iron Maiden – Reach Out
+208 Aerosmith – Janie’s Got a Gun
+209 Bon Jovi – It’s My Life
+210 David Bowie – Let’s Dance
+211 The Cure – The Caterpillar
+212 Pearl Jam – Black
+213 Kansas – Carry On Wayward Son
+214 Chuck Berry – Johnny B. Goode
+215 ZZ Top – Legs
+216 The Clash – London Calling
+217 Peter Frampton – Show Me the Way (Live)
+218 Franz Ferdinand – Take Me Out
+219 David Bowie – Ziggy Stardust
+220 The Beatles – Helter Skelter
+221 Red Hot Chili Peppers – Dani California
+222 U2 – Pride (In the Name of Love)
+223 Lynyrd Skynyrd – Preacher Man
+224 Metallica – Mama Said
+225 The Kinks – You Really Got Me
+226 Guns N’ Roses – Paradise City
+227 Whitesnake – Guilty of Love
+228 Queen – Play the Game
+229 Echo & the Bunnymen – Bring on the Dancing Horses
+230 The Police – Walking on the Moon
+231 The Beatles – Let It Be
+232 Ozzy Osbourne – Mr. Crowley
+233 Ramones – I Wanna Be Sedated
+234 Twisted Sister – We’re Not Gonna Take It
+235 Led Zeppelin – Misty Mountain Hop
+236 Bob Dylan – Knockin’ on Heaven’s Door
+237 Red Hot Chili Peppers – By the Way
+238 Kiss – Love Gun
+239 Rush – Closer to the Heart
+240 ZZ Top – Gimme All Your Lovin’
+241 Def Leppard – Animal
+242 Aerosmith – Love in an Elevator
+243 The Cult – Painted on My Heart
+244 Queen – I Was Born to Love You
+245 Talking Heads – Psycho Killer
+246 U2 – With or Without You
+247 Elvis Presley – Hound Dog
+248 Rammstein – Amerika
+249 Ozzy Osbourne – Mama, I’m Coming Home
+250 The Who – I Can’t Explain
+251 The Cult – Nirvana
+252 The Beach Boys – Surfin’ U.S.A.
+253 The Cure – The Lovecats
+254 Queen – Save Me
+255 The Clash – London’s Burning
+256 Boston – More Than a Feeling
+257 Oasis – Stand By Me
+258 The Rolling Stones – Out of Tears
+259 Scorpions – Wind of Change
+260 Peter Gabriel – Sledgehammer
+261 The Smiths – Ask
+262 The Beatles – Drive My Car
+263 Aerosmith – Angel
+264 AC/DC – Thunderstruck
+265 Kansas – Dust in the Wind
+266 Bon Jovi – In These Arms
+267 Ramones – Ramona
+268 Creedence Clearwater Revival – Up Around the Bend
+269 Whitesnake – Is This Love
+270 Kiss – Lick It Up
+271 Rush – Fly By Night
+272 Pink Floyd – Learning to Fly
+273 Van Halen – I’ll Wait
+274 Led Zeppelin – The Song Remains the Same
+275 Social Distortion – Bad Luck
+276 The Guess Who – No Time
+277 Motörhead – Ace of Spades
+278 Black Sabbath – Changes
+279 The Police – Every Breath You Take
+280 Alice Cooper – Poison
+281 Pink Floyd – Run Like Hell
+282 David Bowie – Modern Love
+283 Kiss – Deuce
+284 The Beatles – Strawberry Fields Forever
+285 Faith No More – Easy
+286 The Rolling Stones – Harlem Shuffle
+287 Badfinger – No Matter What
+288 Oasis – Wonderwall
+289 Skid Row – 18 and Life
+290 David Bowie – Blue Jean
+291 Midnight Oil – The Dead Heart
+292 Twisted Sister – The Price
+293 Black Sabbath – Children of the Grave
+294 Yes – Wonderous Stories
+295 The Cure – Friday I’m in Love
+296 Aerosmith – Jaded
+297 Guns N’ Roses – Sympathy for the Devil
+298 Uriah Heep – Easy Livin’
+299 Queen – Crazy Little Thing Called Love
+300 Eric Clapton – Forever Man
+301 Red Hot Chili Peppers – Breaking the Girl
+302 The Clash – Police & Thieves
+303 Bachman-Turner Overdrive – You Ain’t Seen Nothing Yet
+304 The Kinks – All Day and All of the Night
+305 Stone Temple Pilots – Plush
+306 Peter Gabriel – Mercy Street
+307 Van Halen – Love Walks In
+308 Guns N’ Roses – Civil War
+309 Iggy Pop – Cry for Love
+310 George Thorogood & the Destroyers – Who Do You Love?
+311 Bob Dylan – Jokerman
+312 Grand Funk Railroad – The Loco-Motion
+313 Big Brother and the Holding Company – Piece of My Heart
+314 U2 – Beautiful Day
+315 Iggy Pop – The Passenger
+316 Oasis – All Around the World
+317 The Cult – Love
+318 AC/DC – For Those About to Rock (We Salute You)
+319 Tears for Fears – Sowing the Seeds of Love
+320 Bon Jovi – Keep the Faith
+321 Anathema – Untouchable, Part I
+322 The Rolling Stones – It’s Only Rock ‘n’ Roll (But I Like It)
+323 30 Seconds to Mars – Kings and Queens
+324 Billy Idol – L.A. Woman
+325 Kings of Leon – Use Somebody
+326 Queen – Tie Your Mother Down
+327 The Blues Brothers – Sweet Home Chicago
+328 Pink Floyd – Coming Back to Life
+329 The Cult – Sweet Soul Sister
+330 Bad Company – Can’t Get Enough
+331 Aerosmith – Livin’ on the Edge
+332 Guns N’ Roses – Estranged
+333 Dream Theater – Take Away My Pain
+334 Uriah Heep – Fallen Angel
+335 Led Zeppelin – Hey Hey, What Can I Do
+336 The Doors – Take It as It Comes
+337 The Clash – Tommy Gun (MÚSICA DA VIRADA)
+338 Faith No More – We Care a Lot
+339 Extreme – More Than Words
+340 The Cure – Boys Don’t Cry
+341 Aerosmith – Crazy
+342 Grand Funk Railroad – We’re an American Band
+343 Kiss – We Are One
+344 The Police – Every Little Thing She Does Is Magic
+345 Queen – Radio Ga Ga
+346 Alice in Chains – Man in the Box
+347 The Cure – Lullaby
+348 The Police – Roxanne
+349 UFO – Love Lost Love
+350 Van Halen – Panama
+351 Santana – Evil Ways
+352 Heart – Barracuda
+353 Pearl Jam – Last Kiss
+354 Rainbow – Man on the Silver Mountain
+355 Yes – Roundabout
+356 Van Halen – Feel Your Love Tonight
+357 Bachman-Turner Overdrive – Hey You
+358 Whitesnake – The Deeper the Love
+359 Mr. Big – To Be With You
+360 The Kinks – Lola
+361 Yes – Leave It
+362 Elvis Presley – Jailhouse Rock
+363 Pink Floyd – Take it Back
+364 Alice Cooper – Perfect
+365 U2 – I Will Follow
+366 Genesis – Carpet Crawlers
+367 The Beatles – Day Tripper
+368 Guns N’ Roses – Live and Let Die
+369 Nazareth – Love Hurts
+370 Aerosmith – Hole in My Soul
+371 Red Hot Chili Peppers – Scar Tissue
+372 Asia – Only Time Will Tell
+373 Scorpions –  Rock You Like a Hurricane
+374 Rage Against the Machine – Killing in the Name
+375 Dire Straits – Brothers in Arms
+376 Sex Pistols – God Save the Queen
+377 Thin Lizzy – Whiskey in the Jar
+378 New Order – Regret
+379 Rainbow – Long Live Rock ‘n’ Roll
+380 Chubby Checker – Let’s Twist Again
+381 Bruce Springsteen – Born in the U.S.A.
+382 Neil Young – Rockin’ in the Free World
+383 Bliss – I Hear You Call
+384 The Doors – Break on Through (To the Other Side)
+385 The Outfield – Your Love
+386 Whitesnake – Looking for Love
+387 New Model Army – 51st State
+388 Motörhead – Cat Scratch Fever
+389 Big Brother and the Holding Company – Summertime
+390 The Who – Magic Bus
+391 The Verve – Bitter Sweet Symphony
+392 Van Halen – Don’t Tell Me (What Love Can Do)
+393 Alice Cooper – I Never Cry
+394 U2 – Angel of Harlem
+395 The Clash – Spanish Bombs
+396 Disturbed – The Sound of Silence
+397 The Cult – American Horse
+398 Mr. Big – Wild World
+399 Van Halen – Runnin’ with the Devil
+400 The Jimi Hendrix Experience – Fire
+401 Tom Petty and the Heartbreakers – American Girl
+402 Bill Haley and His Comets – Rock Around the Clock
+403 Blue Öyster Cult – Joan Crawford
+404 Three Dog Night – Joy to the World
+405 Europe – The Final Countdown
+406 Men at Work – Down Under
+407 Foo Fighters – Learn to Fly
+408 The Beatles – Rock and Roll Music
+409 The Police – Spirits in the Material World
+410 Van Halen – When It’s Love
+411 Metallica – The Day That Never Comes
+412 Santana – Guajira
+413 Judas Priest – Turbo Lover
+414 Midnight Oil – Forgotten Years
+415 Echo & the Bunnymen – The Killing Moon
+416 Alice in Chains – Would?
+417 Gary Moore – Still Got the Blues (For You)
+418 Dire Straits – Money for Nothing
+419 Sex Pistols – Anarchy in the UK
+420 Johnny Rivers – Secret Agent Man
+421 The Clash – Train in Vain
+422 Tommy Tutone – 867-5309/Jenny
+423 The Mamas & the Papas – California Dreamin’
+424 The B-52’s – Legal Tender
+425 Hoodoo Gurus – Another World
+426 Goo Goo Dolls – Iris
+427 Bruce Springsteen – Dancing in the Dark
+428 Status Quo – Down Down
+429 Ghost – He Is
+430 The Cult – Big Neon Glitter
+431 Uriah Heep – Tears in My Eyes
+432 Creedence Clearwater Revival – Bad Moon Rising
+433 Peter Frampton – Do You Feel Like We Do (Live)
+434 Green Day – Basket Case
+435 The Cure – Mint Car
+436 Deep Purple – Highway Star
+437 Bon Jovi – Always
+438 Tommy James and the Shondells – Crimson and Clover
+439 Aerosmith – Dude (Looks Like a Lady)
+440 The Monkees – I’m a Believer
+441 Fleetwood Mac – Don’t Stop
+442 Procol Harum – A Whiter Shade of Pale
+443 Twisted Sister – I Wanna Rock
+444 Suzi Quatro – 48 Crash
+445 Tears for Fears – Everybody Wants to Rule the World
+446 Rage Against the Machine – Guerrilla Radio
+447 Foo Fighters – Times Like These
+448 Alice Cooper – You And Me
+449 Van Halen – Right Now
+450 Whitesnake (David Coverdale) – Too Many Tears
+451 Jerry Lee Lewis – Great Balls of Fire
+452 Blondie – Maria
+453 Santana – Oye Como Va
+454 Genesis – I Can’t Dance
+455 Billy Idol – Dancing With Myself
+456 Oasis – Champagne Supernova
+457 Blue Öyster Cult – Godzilla
+458 Tears for Fears – Shout
+459 Crash Test Dummies – Mmm Mmm Mmm Mmm
+460 Tom Petty – Free Fallin’
+461 Marillion – Kayleigh
+462 The Cult – Rain
+463 Eric Clapton – Bad Love
+464 The Bolshoi – Sunday Morning
+465 Soundgarden – Black Hole Sun
+466 Katrina and the Waves – Walking on Sunshine
+467 Temple of the Dog – Hunger Strike
+468 R.E.M. – Shiny Happy People
+469 The Guess Who – These Eyes
+470 The Smiths – The Boy With the Thorn in His Side
+471 Supertramp – Dreamer
+472 Cat Stevens – Morning Has Broken
+473 Kings of Leon – Sex on Fire
+474 Queensryche – Silent Lucidity
+475 Van Halen – Dreams
+476 Creedence Clearwater Revival – Hey Tonight
+477 4 Non Blondes – What’s Up?
+478 Echo & the Bunnymen – Lips Like Sugar
+479 Green Day – Holiday
+480 Toto – Rosanna
+481 Lenny Kravitz – Again
+482 The Cult – Fire Woman
+483 David Bowie – The Jean Genie
+484 Cream – Sunshine of Your Love
+485 Yes – Soon (Single Version)
+486 Paul McCartney & Wings – Live and Let Die
+487 Billy Idol – Sweet Sixteen
+488 Duran Duran – Save a Prayer
+489 Coldplay – Viva La Vida
+490 America – A Horse With No Name
+491 The Killers – Runaways
+492 The Animals – The House of the Rising Sun
+493 Foo Fighters – Everlong
+494 Bruce Springsteen – Glory Days
+495 Badfinger – Day After Day
+496 The Offspring – The Kids Aren’t Alright
+497 Def Leppard – Hysteria
+498 Peter Schilling – Major Tom (Coming Home)
+499 Aerosmith – Full Circle
+500 Concrete Blonde – Heal it Up
