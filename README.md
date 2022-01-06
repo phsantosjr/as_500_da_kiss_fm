@@ -23,6 +23,25 @@ O programa não tem segredo – quem quiser, entra no site da emissora e vota em
 - instale as dependências
 - execute o jupyter lab
 
+### Tratamento dos arquivos de 2000 a 2006
+
+Os scripts estão no ```file_threat.ipynb```
+
+Os arquivos entre 2000 e 2006 foram criados com o sufixo ```_orig``` e a lista das música é uma linha única.
+
+Para usar no estudo, foi preciso criar um script para tratar esse dado e transformar esse única linha em múltiplas linhas
+
+Exceto o arquivo 2000_orig.txt, os demais estão nesse formato
+```
+<ordem>. <Banda/Artista> - <Mùsica>
+```
+
+Arquivos de 2001 a 2005.
+
+O que o algoritmo precisa fazer é localizar o vamor númerico da ordem antes do ponto, fazer um split até o próximo valor númerico e inserir uma quebra de linha ```\n```
+
+
+Arquivo de 2006 não tem o ponto depois do número da ordem.
 
 ### Fonte
 
