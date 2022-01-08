@@ -36,23 +36,23 @@
 465 - Nirvana - Lithium
 464 - Pearl Jam - Daughter
 463 - Eagle Eye Cherry - Save Tonight
-462 - The Kinks – Lola
-461 – Scorpions – Big City Nights
-460 – Joy Division – Atmosphere
-459 – The Cure – Close To Me
-458 – Electric Light Orchestra – Last Train To London
-457 – David Coverdale – The Last Note Of Freedom
-456 – Red Hot Chili Peppers – Dani California
-455 – Dire Straits – The Latest Trick
-454 – Black Sabbath – Paranoid
-453 – Dio – Holy Diver
-452 – The Verve – Bitter Sweet Symphony
-451 – David Bowie And Pat Metheny Group – This Is Not America
-450 – Cream – I Feel Free
+462 - The Kinks - Lola
+461 - Scorpions - Big City Nights
+460 - Joy Division - Atmosphere
+459 - The Cure - Close To Me
+458 - Electric Light Orchestra - Last Train To London
+457 - David Coverdale - The Last Note Of Freedom
+456 - Red Hot Chili Peppers - Dani California
+455 - Dire Straits - The Latest Trick
+454 - Black Sabbath - Paranoid
+453 - Dio - Holy Diver
+452 - The Verve - Bitter Sweet Symphony
+451 - David Bowie And Pat Metheny Group - This Is Not America
+450 - Cream - I Feel Free
 449 - Oasis - All Around The World
-448 – I Can’t Dance - Genesis
-447 – Love Shack - B52’s
-446 – Van Morrison – Brown Eyed Girl
+448 - I Can’t Dance - Genesis
+447 - Love Shack - B52’s
+446 - Van Morrison - Brown Eyed Girl
 445 - Billy Idol - Sweet Sixteen
 444 - Foo Fighters - Learn To Fly
 443 - The Blues Brothers - Sweet home Chicago
@@ -61,7 +61,7 @@
 440 - Talking Heads - Psycho Killer
 439 - The Troogs - Wild Thing
 438 - Bruce Springsteen - Dancing In The Dark
-437 - Oingo Boingo – Stay
+437 - Oingo Boingo - Stay
 436 - Van Halen - Love Walks In
 435 - U.F.O. - Love Lost Love
 434 - Spy vs Spy - Clarity Of Mind
@@ -106,12 +106,12 @@
 395 - Jimi Hendrix - Purple Haze
 394 - The Cure - A Night Like This
 393 - John Cougar Mellencamp - I Need a Lover
-392 - Creedence Clearwater Revival – Up Around The Bend
+392 - Creedence Clearwater Revival - Up Around The Bend
 391 - The Outfield - Your Love
 390 - Genesis - I Know What I Like
 389 - Eurythimics - Sweet Dreams
 388 - Focus - Sylvia
-387 - The Smiths – Panic
+387 - The Smiths - Panic
 386 - Blue Oyster Cult - Burnin For You
 385 - The Bealles - Eight Days A Week
 384 - David Coverdale - Love Is Blind
@@ -196,7 +196,7 @@
 305 - Asia - Only Time Will Tell
 304 - Bad Company - (?????????)
 303 - T. Rex - Bang a Gong (Get It On)
-302 - Toto – Africa
+302 - Toto - Africa
 301 - Supertramp - Its Raining again
 300 - Roy Orbinson - You Got It
 299 - Scott Mackenzie - If you’re going to San Francisco
@@ -220,7 +220,7 @@
 281 - Dire Straits - So Far Away
 280 - Beatles - Ticket To Ride
 279 - Peter Frampton - Show me The Way
-278 - Oingo Boingo – Stay
+278 - Oingo Boingo - Stay
 277 - Lou Reed - Perfect Day
 276 - Kiss - Beth
 275 - Status Quo - In The Army Now
@@ -261,9 +261,9 @@
 240 - Coldplay - The Hardest Part
 239 - David Bowie - Starman
 238 - Guns N’ Roses - Civil War
-237 - The Cure – Lullaby
+237 - The Cure - Lullaby
 236 - Billy Idol - Dancing With Myself
-235 – The Beatles - Penny Lane
+235 - The Beatles - Penny Lane
 234 - Aerosmith - Livin’ on the edge
 233 - Yes - Hold On
 232 - Ramones - Sheens is a punk rocker
@@ -277,21 +277,21 @@
 224 - Echo & The Bunnymen - Bring On The Dancing Horses
 223 - Rolling Stones - Brown Sugar
 222 - U2 - New Year’s Day
-221 - Stone Temple Pilots – Plush
+221 - Stone Temple Pilots - Plush
 220 - Queen - Keep Yourself Alive
 219 - Ramones - Pet Sematary
 218 - John Lennon - Stand By Me
-217 – The Rolling Stones - Start me Up
+217 - The Rolling Stones - Start me Up
 216 - The Guess Who - No Time
 215 - Grand Funk Railroad - We’re an American Band
 214 - Echo And The Bunnymen - Lips Like Sugar
 213 - The Doors - Touch Me
-212 – Billy Idol – Mony Mony
-211 – The Beatles – Day Tripper
-210 – The B-52’s – Legal Tender
-209 – U2 – Pride (In The Name Of Love)
-208 – Tears For Fears – Sowing The Seeds Of Love
-207 - Journey – Don’t Stop Believin”
+212 - Billy Idol - Mony Mony
+211 - The Beatles - Day Tripper
+210 - The B-52’s - Legal Tender
+209 - U2 - Pride (In The Name Of Love)
+208 - Tears For Fears - Sowing The Seeds Of Love
+207 - Journey - Don’t Stop Believin”
 206 - Deep Purple - Sometimes I Fell Like Screamin’
 205 - Collective Soul - Shine
 204 - The Beatles - A Hard Day’s Night
@@ -299,7 +299,7 @@
 202 - Bruce Springsteen - Born To The U.S.A
 201 - Whitesnake - Love Ain’t No Stranger
 200 - Paul McCartney & The Wings - Band On The Run
-199 – The Beatles - Love me do
+199 - The Beatles - Love me do
 198 - Kiss - God Gave Rock’n'Roll To You
 197 - Midnight Oil - My Conutry
 196 - Morrissey - Irish Blood English Heart
@@ -313,13 +313,13 @@
 188 - Beatles - Don’t Let Me Down
 187 - The Cult - Revolution
 186 - CCR - Who’ll Stop the Rain
-187 – The Cult – Revolution
-186 – CCR – Who’ll Stop The Rain
-185 – Dobbie Brothers – Listen to the music
-184 – Van Halen – Right Now
-183 – The Beatles – Lucy in the Sky With Diamonds
-182 – Aerosmith – Amazing
-181 – Guns’n Roses – Sweet Child O’Mine
+187 - The Cult - Revolution
+186 - CCR - Who’ll Stop The Rain
+185 - Dobbie Brothers - Listen to the music
+184 - Van Halen - Right Now
+183 - The Beatles - Lucy in the Sky With Diamonds
+182 - Aerosmith - Amazing
+181 - Guns’n Roses - Sweet Child O’Mine
 180 - Shocking Blue - Venus
 179 - The Smiths - Ask
 178 - Rush - Limelight
@@ -393,7 +393,7 @@
 110 - White Snake - Is This Love?
 109 - Queensryche - Silent Lucidity
 108 - Queen - We Will Rock You
-107 - Iggy Pop – Candy
+107 - Iggy Pop - Candy
 106 - Emerson Lake & Palmer - Lucky Man
 105 - Genesis - Mama
 104 - Rolling Stones - Angie
@@ -429,19 +429,19 @@
 74 - Bob Dylan - Like a Rolling Stone
 73 - Queen & David Bowie - Under Pressure
 72 - Yes - Changes
-71 - Pearl Jam – Alive
+71 - Pearl Jam - Alive
 70 - Led Zeppelin - Going To california
 69 - Dire Straits - Money For Nothing
 68 - The Beatles - Twist and shout
 67 - Kiss - I Love it Loud
-66 - Aerosmith – MIA
+66 - Aerosmith - MIA
 65 - Pink Floyd - Take it Back
 64 - Peter Frampton - Breaking All The Rules
 63 - Rainbow- Long Live Rock n’ Roll
 62 - Led Zeppelin - Dyer Maker
 61 - Kansas - Dust in the wind
 60 - The Doors - Riders on the Storm
-59 - Pink Floyd – Money
+59 - Pink Floyd - Money
 58 - Queen - We Are The Champions
 57 - Led Zeppelin - Whole Lotta Love
 56 - Deep Purple - Black Night
@@ -449,7 +449,7 @@
 54 - ??
 53 - Deep Purple - Black Night
 52 - Rush - Time Stand Still
-51 -The Beatles – Yesterday
+51 -The Beatles - Yesterday
 50 - Queen - Somebody To Love
 48 - The Doors - Roadhouse Blues
 47 - Peter Gabriel - Sledgehammer
@@ -468,7 +468,7 @@
 34 - Led Zeppelin - Thank You
 33 - Bruce Dickinson - Tears of The Dragon
 32 - Ozzy Osbourne - No More Tears
-31 - Deep Purple – Burn
+31 - Deep Purple - Burn
 30 - John Lennon - Imagine
 29 - Focus - Hocus Pocus (Repetida)
 28 - Dio - Rainbow In The Dark

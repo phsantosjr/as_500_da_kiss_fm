@@ -17,13 +17,18 @@ O programa não tem segredo – quem quiser, entra no site da emissora e vota em
 - Agrupar os resultados por país de origem da banda
 - Identificar quais músicas estiverem presentens em quais anos
 
+
+### Fonte dos dados
+
+Os dados foram baixados no site https://leitespc.blogspot.com/. No site da rádio não existe um local para baixar os dados da fonte oficial.
+
 ### Configure seu ambiente
 
 - crie um virtualenv e ative-o
 - instale as dependências
 - execute o jupyter lab
 
-### Tratamento dos arquivos de 2000 a 2006
+### Tratamento dos arquivos
 
 Os scripts estão no ```file_threat.ipynb```
 
@@ -42,6 +47,13 @@ O que o algoritmo precisa fazer é localizar o vamor númerico da ordem antes do
 
 
 Arquivo de 2006 não tem o ponto depois do número da ordem.
+
+
+**Regras/Exceções - alguns tratamento manuais nos arquivos originais:**
+
+- foi feita a substituição de ```–``` por ```-```
+
+Os arquivos tratados serão salvos delimitados por "|"(pipe) e com o padrão de nome <ano>_ok.txt
 
 ### Fonte
 

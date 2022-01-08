@@ -9,84 +9,84 @@
 492 - Autograph - Turn Up The Radio
 491 - Bon Jovi - In These Arms
 490 - B'52 - Love Shack
-489 – Queen – A Kind of Magic
-488 – Bachman-Turner Overdrive – Hey You
-487 – Midnight Oil – Blue Sky Mine
-486 – The Cult – Painted On My Heart
-485 – Rory Gallagher – Shadow Play
-484 – Billy Idol – Cradle of Love
-483 – INXS – New Sensation
-482 – Men At Work – Down Under
-481 – Audioslave – Like a Stone
-480 – Bauhaus – Ziggy Stardust
-479 – Bad Company – Live For The Music
-478 – Echo & The Bunnymen – Bedbugs Ballyhoo
-477 – Van Halen - Jump
-476 – Sex Pistols – God Save The Queen
-475 – Bob Seger & The Silver Bullet Band – The Fire Inside
-474 – The Cure – Boys Don’t Cry
-473 – Pink Floyd – Free Four
-472 – U2 – Pride (In The Name of Love)
-471 – Billy Squier – The Stroke
-470 – Saxon – Ride Like The Wind
-469 – Extreme – Hole Hearted
-468 – Bruce Dickinson – All The Young Dudes
-467 – David Coverdale – Don’t You Cry
-466 – Katrina & The Waves – Walking On Sunshine
-465 – Derek & The Dominos – Layla
-464 – The Doors – Love Me Two Times
-463 – Spin Doctors – Two Princess
-462 – Ganggajang – Gimme Some Lovin’
-461 – The Rolling Stones – Miss You
-460 – Led Zeppelin – Fool In The Rain
-459 – Queen – Save Me
-458 – Soundgarden – Fell On Black Days
-457 – Whitesnake – Crying In The Rain
-456 – Thin Lizzy – Jailbreak
-455 – Deep Purple – Strange Kind of Woman
-454 – Guns N’ Roses – Used To Love Her
-453 – The Cult – Wild Hearted Son
-452 – Rush – Fly By Night
-451 – The Smiths – Ask
-450 – Nirvana – In Bloom
-449 – Ramones – Poison Heart
-448 – KISS – We Are One
-447 – The Allman Brothers Band – Ramblin’ Man
-446 – Simple Minds – Don't You (Forget About Me)
-445 – U2 – Even Better Than The Real Thing
-444 – Skid Row – Wasted Time
-443 – AC/DC – Money Talks
-442 – A Flock of Seagulls – I Ran
-441 – Billy Idol – Mony Mony
-440 – Joe Cocker – You Can Leave Your Hat On
-439 – Queen – Play The Game
-438 – The Rolling Stones – Love Is Strong
-437 – R.E.M. – Shinny Happy People
-436 – Aerosmith – Hole In My Soul
-435 – Bruce Springsteen – Glory Days
-434 – David Bowie – Absolute Beginners
-433 – Yes – Walls
-432 – Jimi Hendrix – Manic Depression
-431 – Van Halen – When It’s Love
-430 – Mottley Crue – Doctor Feelgood
-429 – Live – Waterboy
-428 – U2 - One
-427 – Iron Maiden – Heaven Can Wait
-426 – Black Sabbath – Black Sabbath
-425 – Morrissey – Irish Blood, English Heart
-424 – Led Zeppelin – D’yer Maker
-423 – Nazareth – Razamanaz
-422 – Scorpions – Wind of Change
-421 – Faith No More - Epic
-420 – Deep Purple – Space Truckin’
-419 – Journey – Separate Ways (Words Apart)
-418 – Whitesnake – Fool For Your Loving
-417 – Rush – Nobody’s Hero
-416 – Bon Jovi – Born To Be My Baby
-415 – David Lee Roth – Going Crazy
-414 – UFO – Love Lost Love
-413 – Alice Cooper – Billion Dollar Babies
-412 – Black Sabbath - Changes
+489 - Queen - A Kind of Magic
+488 - Bachman-Turner Overdrive - Hey You
+487 - Midnight Oil - Blue Sky Mine
+486 - The Cult - Painted On My Heart
+485 - Rory Gallagher - Shadow Play
+484 - Billy Idol - Cradle of Love
+483 - INXS - New Sensation
+482 - Men At Work - Down Under
+481 - Audioslave - Like a Stone
+480 - Bauhaus - Ziggy Stardust
+479 - Bad Company - Live For The Music
+478 - Echo & The Bunnymen - Bedbugs Ballyhoo
+477 - Van Halen - Jump
+476 - Sex Pistols - God Save The Queen
+475 - Bob Seger & The Silver Bullet Band - The Fire Inside
+474 - The Cure - Boys Don’t Cry
+473 - Pink Floyd - Free Four
+472 - U2 - Pride (In The Name of Love)
+471 - Billy Squier - The Stroke
+470 - Saxon - Ride Like The Wind
+469 - Extreme - Hole Hearted
+468 - Bruce Dickinson - All The Young Dudes
+467 - David Coverdale - Don’t You Cry
+466 - Katrina & The Waves - Walking On Sunshine
+465 - Derek & The Dominos - Layla
+464 - The Doors - Love Me Two Times
+463 - Spin Doctors - Two Princess
+462 - Ganggajang - Gimme Some Lovin’
+461 - The Rolling Stones - Miss You
+460 - Led Zeppelin - Fool In The Rain
+459 - Queen - Save Me
+458 - Soundgarden - Fell On Black Days
+457 - Whitesnake - Crying In The Rain
+456 - Thin Lizzy - Jailbreak
+455 - Deep Purple - Strange Kind of Woman
+454 - Guns N’ Roses - Used To Love Her
+453 - The Cult - Wild Hearted Son
+452 - Rush - Fly By Night
+451 - The Smiths - Ask
+450 - Nirvana - In Bloom
+449 - Ramones - Poison Heart
+448 - KISS - We Are One
+447 - The Allman Brothers Band - Ramblin’ Man
+446 - Simple Minds - Don't You (Forget About Me)
+445 - U2 - Even Better Than The Real Thing
+444 - Skid Row - Wasted Time
+443 - AC/DC - Money Talks
+442 - A Flock of Seagulls - I Ran
+441 - Billy Idol - Mony Mony
+440 - Joe Cocker - You Can Leave Your Hat On
+439 - Queen - Play The Game
+438 - The Rolling Stones - Love Is Strong
+437 - R.E.M. - Shinny Happy People
+436 - Aerosmith - Hole In My Soul
+435 - Bruce Springsteen - Glory Days
+434 - David Bowie - Absolute Beginners
+433 - Yes - Walls
+432 - Jimi Hendrix - Manic Depression
+431 - Van Halen - When It’s Love
+430 - Mottley Crue - Doctor Feelgood
+429 - Live - Waterboy
+428 - U2 - One
+427 - Iron Maiden - Heaven Can Wait
+426 - Black Sabbath - Black Sabbath
+425 - Morrissey - Irish Blood, English Heart
+424 - Led Zeppelin - D’yer Maker
+423 - Nazareth - Razamanaz
+422 - Scorpions - Wind of Change
+421 - Faith No More - Epic
+420 - Deep Purple - Space Truckin’
+419 - Journey - Separate Ways (Words Apart)
+418 - Whitesnake - Fool For Your Loving
+417 - Rush - Nobody’s Hero
+416 - Bon Jovi - Born To Be My Baby
+415 - David Lee Roth - Going Crazy
+414 - UFO - Love Lost Love
+413 - Alice Cooper - Billion Dollar Babies
+412 - Black Sabbath - Changes
 411 - Creedence Clearwater Revival - Hey Tonight
 410 - Boston - Rock N' Roll Band
 409 - Pearl Jam - Dissident
@@ -110,14 +110,14 @@
 391 - Ramones - I Wanna Live
 390 - Survivor - Burning Heart
 389 - U2 - Sunday Bloody Sunday
-388 - Metallica – One
-387 - Colective Soul – December
+388 - Metallica - One
+387 - Colective Soul - December
 386 - Crosby, Stills, Nash & Young - Carry On
 385 - Led Zeppelin - Babe I'm Gonna Leave You
-384 - Red Hot Chilli Peppers – Otherside
+384 - Red Hot Chilli Peppers - Otherside
 383 - Alice In Chains - I Stay Away
 382 - Boston - More Than a Felling
-381 – Queen – Radio Ga ga
+381 - Queen - Radio Ga ga
 380 - Nazareth - Love Leads To Madness
 379 - Alice Cooper - Clones (We Are All)
 378 - Foghat - Fool for the City
@@ -240,9 +240,9 @@
 260 - Red Hot Chili Peppers - Scartissue
 259 - Queen - Another One Bites The Dust
 258 - Ozzy Osbourne - I Just Want You
-257 – Boston - Don't Look Back
-256 – Bob Dylan - Hurricane
-255 – Pink Floyd - High Hopes
+257 - Boston - Don't Look Back
+256 - Bob Dylan - Hurricane
+255 - Pink Floyd - High Hopes
 254 - Kinks - I Need You
 253 - Iron Maiden - Cross-Eyed Mary
 252 - AC/DC - TNT
@@ -274,10 +274,10 @@
 225 - Janis Joplin - Piece Of My Heart
 224 - The Beatles - A Hard Day's Night
 223 - Scorpions - Big City Nights
-222 - Lynyrd Skynyrd – Preacher Man
-221 - U2 – Angel Of Harlem
-220 - Queen – I Want It All
-219 - AC/DC – For Those About To Rock (We Salute You)
+222 - Lynyrd Skynyrd - Preacher Man
+221 - U2 - Angel Of Harlem
+220 - Queen - I Want It All
+219 - AC/DC - For Those About To Rock (We Salute You)
 218 - Ozzy Osbourne - Mama I'm Coming Home
 217 - Supertramp - Goodbye Stranger
 216 - The Smiths - Panic
@@ -405,14 +405,14 @@
 94 - Pretenders - Middle Of The Road
 93 - Deep Purple - Highway Star
 92 - Rolling Stones - Let's Spend the Night Together
-91 - Pink Floyd – Mother
+91 - Pink Floyd - Mother
 90 - Beach Boys - Barbara Ann
 89 - Dio - Holy Diver
 88 - Queen - Flash
 87 - Guns N' Roses - Sympathy For the Devil
 86 - Man At Work - Overkill
 85 - Aerosmith - Back In The Saddle
-84 - Oasis – Supersonic
+84 - Oasis - Supersonic
 83 - Blues Brothers - Gimme Some Lovin'
 82 - Status Quo - Roll Over Lay Down
 81 - Kinks - You Really Got Me
@@ -432,7 +432,7 @@
 67 - Van Halen - Dreams
 66 - AC/DC- Highway to Hell
 65 - Doors - Roadhouse Blues
-64 – Ramones – Pet Sematary
+64 - Ramones - Pet Sematary
 63 - Black Sabbath - N.I.B
 62 - Europe - The Final Countdown
 61 - Grand Funk Railroad - Footstompin' music
@@ -461,7 +461,7 @@
 38 - Survivor - Eye of the Tiger
 37 - Creedence Clearwater Revival - Have You Ever Seen The Rain?
 36 - Bad Company - Bad Company
-35 - Scorpions – The Future Never Dies
+35 - Scorpions - The Future Never Dies
 34 - Alice Cooper - No More Mr. Nice Guy
 33 - The Cult - Edie (Ciao Baby)
 32 - Pink Floyd - Hey You
@@ -475,7 +475,7 @@
 24 - Guns N' Roses - Welcome to the Jungle
 23 - Out Of Tears - Rolling Stones
 22 - Rush - Manhattan Project
-21 – David Coverdale - Cry For Love
+21 - David Coverdale - Cry For Love
 20 - Dio - Rainbow In The Dark
 19 - Eric Clapton - Forever Man
 18 - Beatles - While My Guitar Gently Weeps
