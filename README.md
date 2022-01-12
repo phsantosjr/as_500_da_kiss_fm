@@ -55,6 +55,19 @@ Arquivo de 2006 não tem o ponto depois do número da ordem.
 
 Os arquivos tratados serão salvos delimitados por "|"(pipe) e com o padrão de nome <ano>_ok.txt
 
+
+### Site com fonte de dados de artistas/musicas
+
+[All Music](https://www.allmusic.com/)
+
+### API para dados de músicas
+
+[Vagalume](https://api.vagalume.com.br/)
+
+[Last FM](https://www.last.fm/api/intro)
+
+[Music Brainz](https://musicbrainz.org/doc/MusicBrainz_API)
+
 ### Fonte
 
 [Site Oficial das 500 da KISS FM](https://kissfm.com.br/as-500-mais-da-kiss/)
