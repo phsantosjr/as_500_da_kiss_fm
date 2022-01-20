@@ -197,7 +197,8 @@
 304 - U2 - I Still Haven't Found What I'm Looking For
 303 - Alice in Chains - No excuses
 302 - Whitesnake - Judgment Day
-301 - Rolling Stones - Gimme Shelter 300 - Guns N' Roses - Patience
+301 - Rolling Stones - Gimme Shelter
+300 - Guns N' Roses - Patience
 299- Queen - Fat Bottomed Girls
 298- Scorpions - Rock You Like a Hurricane
 297 - Smiths - The Charming Man
@@ -246,7 +247,8 @@
 254 - Kinks - I Need You
 253 - Iron Maiden - Cross-Eyed Mary
 252 - AC/DC - TNT
-251 - Aerosmith - Amazing 250 - Genesis - No Reply At All
+251 - Aerosmith - Amazing
+250 - Genesis - No Reply At All
 249 - Steppenwolf - Born to Be Wild
 248 - Rush - The Big Money
 247 - Sweet - Love is Like Oxygen
