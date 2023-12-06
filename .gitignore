@@ -21,6 +21,7 @@ env/
 .envs/.dev/*
 .env
 *.env
+.venv/
 build/
 develop-eggs/
 dist/

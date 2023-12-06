@@ -1,6 +1,7 @@
 ## Projeto de Estudo das 500 Mais da KISS FM
 ![](https://img.shields.io/badge/Python-3.8-blue.svg)
 ![](https://img.shields.io/badge/Pandas-blue.svg)
+![](https://img.shields.io/badge/scikit-learn-blue.svg)
 
 <img src="https://kissfm.com.br/wp-content/themes/KISSFM/img/kisslogo.png">
 
@@ -22,13 +23,14 @@ O programa não tem segredo – quem quiser, entra no site da emissora e vota em
 
 Os dados foram baixados no site https://leitespc.blogspot.com/ e cedidos pelo Eduardo F.Souza
 
-No site da rádio não existe um local para baixar os dados da fonte oficial. Entrei em contato com a rádio via e-mail e whatsapp e até hoje (20/01/22) sem resposta.
+No site da rádio não existe um local para baixar os dados da fonte oficial. 
+Entrei em contato com a rádio via e-mail e WhatsApp e até hoje (05/12/23) sem resposta.
 
 ### Configure seu ambiente
 
 - crie um virtualenv e ative-o
-- instale as dependências
-- execute o jupyter lab
+- instale as dependências `pip install -r requirements.txt`
+- execute o `jupyter lab` no terminal
 
 ### Tratamento dos arquivos
 
@@ -89,34 +91,34 @@ Para trabalhar com os dados da planilha, copie os dados para uma nova sheet e co
 Quantas vezes o artista apareceu nas listas
 
 | Artista | Total |
-| ------ | ------- |
-| LED ZEPPELIN    | 283 |
-| QUEEN           | 272 |
-| AEROSMITH       | 207 |
-| BEATLES         | 203 |
-| PINK FLOYD      | 200 |
-| RUSH            | 193 |
-| AC/DC           | 188 |
-| THE BEATLES     | 181 |
-| KISS            | 176 |
-| DEEP PURPLE     | 174 |
+| ------ |-------|
+| BEATLES         | 398   |
+| LED ZEPPELIN    | 291   |
+| QUEEN           | 281   |
+| AEROSMITH       | 224   |
+| PINK FLOYD      | 207   |
+| RUSH            | 199   |
+| AC/DC           | 197   |
+| KISS            | 183   |
+| VAN HALEN       | 183   |
+| DEEP PURPLE     | 180   |
 
 **Top 10 músicas + artistas que aparecem na lista**
 
 Quantas vezes o artista + música apareceu nas listas
 
-| Artista | Música | Total |
-| ------ | ------- | ------- |
-|LED ZEPPELIN | STAIRWAY TO HEAVEN	| 22 |
-|DEEP PURPLE | SMOKE ON THE WATER	| 22 |
-|RUSH | TOM SAWYER	| 22 |
-|DIRE STRAITS |MONEY FOR NOTHING	| 22 |
-|LED ZEPPELIN | BLACK DOG	| 22 |
-|AC/DC | BACK IN BLACK	| 21 |
-|DEEP PURPLE | PERFECT STRANGERS	| 21 |
-|JETHRO TULL | AQUALUNG	| 21 |
-|VAN HALEN |JUMP	| 21 |
-|STEPPENWOLF |BORN TO BE WILD	| 21 |
+| Artista                            | Música                | Total |
+|------------------------------------|-----------------------| ------- |
+| LED ZEPPELIN	| STAIRWAY TO HEAVEN	23 | 
+| LED ZEPPELIN	| BLACK DOG	            | 23                  |
+| RUSH	| TOM SAWYER	           | 23                  |
+| DIRE STRAITS	| MONEY FOR NOTHING	    | 23                  |
+| DEEP PURPLE	| SMOKE ON THE WATER	   | 23                |
+| JETHRO TULL	| AQUALUNG	             | 22                |
+| PINK FLOYD	| TIME	                 | 22                |
+| STEPPENWOLF | 	BORN TO BE WILD	     | 22        |
+| GENESIS	                           | MAMA	                 | 22        |
+| BLACK SABBATH	                     | PARANOID	             | 22     |
 
 **Músicas que apareceram em todas as listas**
 
@@ -124,11 +126,11 @@ De todas as músicas das listas, apenas 5 seguem firmes e fortes aparecendo em t
 
 | Artista | Música | Total |
 | ------ | ------- | ------- |
-|LED ZEPPELIN | STAIRWAY TO HEAVEN	| 22 |
-|DEEP PURPLE | SMOKE ON THE WATER	| 22 |
-|RUSH | TOM SAWYER	| 22 |
-|DIRE STRAITS |MONEY FOR NOTHING	| 22 |
-|LED ZEPPELIN | BLACK DOG	| 22 |
+| LED ZEPPELIN	|STAIRWAY TO HEAVEN	23| 
+| LED ZEPPELIN	| BLACK DOG	          | 23                  |
+| RUSH	| TOM SAWYER	         | 23                  |
+| DIRE STRAITS	| MONEY FOR NOTHING	  | 23                  |
+| DEEP PURPLE	| SMOKE ON THE WATER	 | 23                |
 
 ## Rank das músicas de todas as listas ( Gold Medal )
 
@@ -147,36 +149,35 @@ O rank da música será a soma dos scores de cada lista.
 
 Qual são as músicas top 10 do Gold Medal ?
 
-| Banda | Música | Rank |
-| ------ | ------- | ------- |
-|LED ZEPPELIN  | STAIRWAY TO HEAVEN | 10.962 |
-|DEEP PURPLE   | SMOKE ON THE WATER | 10.754 |
-|RUSH          | TOM SAWYER         | 10.070 |
-|QUEEN         | BOHEMIAN RHAPSODY  |  9.946 |
-|AC/DC         | BACK IN BLACK      |  9.779 |
-|LED ZEPPELIN  | KASHMIR            |  9.553 |
-|BLACK SABBATH | PARANOID           |  9.127 |
-|JETHRO TULL   | AQUALUNG           |  9.068 |
-|STEPPENWOLF   | BORN TO BE WILD    |  8.927 |
-|PINK FLOYD    | TIME               |  8.822 |
+| Banda | Música                        | Rank   |
+| ------ |-------------------------------|--------|
+|LED ZEPPELIN   | STAIRWAY TO HEAVEN  | 11.460 |
+|DEEP PURPLE    | SMOKE ON THE WATER  | 11.229 |
+|BEATLES        | HELP                | 10.569 |
+|RUSH           | TOM SAWYER          | 10.535 |
+|QUEEN          | BOHEMIAN RHAPSODY   | 10.443 |
+|AC/DC          | BACK IN BLACK       | 10.261 |
+|LED ZEPPELIN   | KASHMIR             | 10.042 |
+|BLACK SABBATH  | PARANOID            | 9.599  |
+|STEPPENWOLF    | BORN TO BE WILD     | 9.410  |
+|JETHRO TULL    | AQUALUNG            | 9.376  |
 
 
 Qual são as bandas top 10 do Gold Medal ?
 
-| Banda | Rank |
-| ------ | ------- |
-|LED ZEPPELIN     | 96.466 |
-|QUEEN            | 84.970 |
-|PINK FLOYD       | 70.695 |
-|AC/DC            | 67.439 |
-|BEATLES          | 59.727 |
-|DEEP PURPLE      | 59.187 |
-|BLACK SABBATH    | 56.505 |
-|RUSH             | 55.897 |
-|THE BEATLES      | 52.639 |
-|AEROSMITH        | 50.732 |
+| Banda                   | Rank    |
+|-------------------------|---------|
+| BEATLES          | 117.102 |
+| LED ZEPPELIN     | 99.414  |
+| QUEEN            | 88.039  |
+| PINK FLOYD       | 73.595  |
+| AC/DC            | 71.332  |
+| DEEP PURPLE      | 61.047  |
+| BLACK SABBATH    | 59.875  |
+| RUSH             | 57.436  |
+| AEROSMITH        | 55.429  |
+| KISS             | 50.741  |
 
-![](resources/img/podium.jpg)
 
 ## Música Top das Tops 
 
@@ -193,6 +194,11 @@ Apareceu em todas as listas e lidera o rank Gold Medal.
 [Versão Ao Vivo](https://www.youtube.com/watch?v=xbhCPt6PZIU&ab_channel=OLDTAPES)
 
 
+# Prediction
+
+No arquivo `prediction.ipynb` é realizada um estudo usando `scikit-learn` para prever qual será o ranking das musicas no ano seguinte.
+
+
 
 ### Site com fonte de dados de artistas/musicas
 
@@ -205,6 +211,8 @@ Apareceu em todas as listas e lidera o rank Gold Medal.
 [Last FM](https://www.last.fm/api/intro)
 
 [Music Brainz](https://musicbrainz.org/doc/MusicBrainz_API)
+
+[Spotify API](https://developer.spotify.com/documentation/web-api/tutorials/getting-started)
 
 ### Fonte
 
